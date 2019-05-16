@@ -1,2 +1,0 @@
-# gougasblogs
-Blogs for ever
